@@ -7,7 +7,7 @@ export default function PokemonList({ pokemon, imageUrl }) {
 
     return (
         <div className="row">
-            <div className="col-3 list">
+            <div className="pokeball-list-text col-3 list">
                 <ul>
                     {pokemon.map(p => (
                         <li className="list-item" key={p}>{p}</li>

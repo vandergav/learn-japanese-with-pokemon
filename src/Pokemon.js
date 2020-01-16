@@ -21,7 +21,8 @@ export default function Pokemon({ match }) {
         console.log(x)
         const pokemonUrl = `https://pokeapi.co/api/v2/pokemon/${pokemonIndex}/`;
         const pokemonSpeciesUrl = `https://pokeapi.co/api/v2/pokemon-species/${pokemonIndex}/`;
-        const imgURL = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemonIndex}.png`
+        // const imgURL = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemonIndex}.png`
+        const imgURL = `https://pokeres.bastionbot.org/images/pokemon/${pokemonIndex}.png`
         const pokemonRes = await axios.get(pokemonUrl)
         const pokemonRes2 = await axios.get(pokemonSpeciesUrl)
         console.log(pokemonRes)
@@ -43,7 +44,8 @@ export default function Pokemon({ match }) {
         console.log("x", x)
         const pokemonUrl = `https://pokeapi.co/api/v2/pokemon/${x}/`;
         const pokemonSpeciesUrl = `https://pokeapi.co/api/v2/pokemon-species/${x}/`;
-        const imgURL = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${x}.png`
+        // const imgURL = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${x}.png`
+        const imgURL = `https://pokeres.bastionbot.org/images/pokemon/${x}.png`
         const pokemonRes = await axios.get(pokemonUrl)
         const pokemonRes2 = await axios.get(pokemonSpeciesUrl)
         setName(pokemonRes.data.name)
@@ -62,7 +64,8 @@ export default function Pokemon({ match }) {
         console.log("x", x)
         const pokemonUrl = `https://pokeapi.co/api/v2/pokemon/${x}/`;
         const pokemonSpeciesUrl = `https://pokeapi.co/api/v2/pokemon-species/${x}/`;
-        const imgURL = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${x}.png`
+        // const imgURL = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${x}.png`
+        const imgURL = `https://pokeres.bastionbot.org/images/pokemon/${x}.png`
         const pokemonRes = await axios.get(pokemonUrl)
         const pokemonRes2 = await axios.get(pokemonSpeciesUrl)
         setName(pokemonRes.data.name)

@@ -22,9 +22,9 @@ export default function NavBar() {
                     <div id="example-collapse-text">
                         <div>
                             <ul className="navbar-nav ml-auto">
-                                <Link to='/shiny'>
+                                <Link to='/normal'>
                                     <li className="nav-item">
-                                        <a className="navbar-item" href="">Shiny</a>
+                                        <a className="navbar-item" href="">Normal</a>
                                     </li>
                                 </Link>
                                 <li className="nav-item">
