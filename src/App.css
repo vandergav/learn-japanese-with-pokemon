@@ -1,38 +1,69 @@
-.App {
-  text-align: center;
+* {
+    font-family: 'Kosugi Maru', sans-serif;  
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h3 {
+    font-family: 'Lato', sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.card {
+    margin: 1px;
+    box-shadow: 0 2px 5px #ccc;
+    background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.card-header {
+    display: flex;
+    justify-content: center;
+   }
+
+.container {
+    padding-top: 10px;
 }
 
-.App-link {
-  color: #61dafb;
+.click-me {
+    margin-left: 1000px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.factfile{
+    font-family: 'Kosugi Maru', sans-serif;
+    background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding-top: 20px;
+    padding: 7% 15%;
 }
+
+.list {
+    background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding-top: 20px;
+    text-align: center;
+    overflow: auto
+}
+
+.list-item {
+    margin: 15px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5rem;
+    list-style-image: url("./assets/pokeballgif.gif");
+}
+
+.navbar-title {
+    font-family: 'Lato', sans-serif;
+    font-size: 2rem;
+    color: gray;
+}
+
+.nav-item {
+    margin: 15px; 
+    font-family: 'Lato', sans-serif;
+    font-size: 1.1rem;
+}
+
+.pagination-button {
+    margin: 25px;
+}
+
