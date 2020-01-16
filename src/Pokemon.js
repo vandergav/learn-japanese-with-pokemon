@@ -81,10 +81,10 @@ export default function Pokemon({ match }) {
             <h2 style={{ backgroundColor: 'AliceBlue' }}>{engflavor}</h2>
             <h2 style={{ backgroundColor: 'Snow' }}>{kanjiflavor}</h2>
             <div className="row">
-                <div className="col-4 col-sm-2">
+                <div className="col-5 col-sm-2">
                     {<button type="button" className="btn btn-primary btn-lg" onClick={gotoPrevPokemon}>Previous</button>}
                 </div>
-                <div className="col-4 col-sm-2">
+                <div className="col-5 col-sm-2">
                     {<button type="button" className="btn btn-warning btn-lg" onClick={gotoNextPokemon} >Next</button>}
                 </div>
             </div>
