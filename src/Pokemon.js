@@ -76,15 +76,15 @@ export default function Pokemon({ match }) {
     return (
         <div className="factfile">
             <img src={imgURL} alt="" width="200" height="200" />
-            <h1 style={{ color: 'indianred' }}>{name}</h1>
-            <h1 style={{ color: 'blue' }}>{namae}</h1>
-            <h2 style={{ backgroundColor: 'AliceBlue' }}>{engflavor}</h2>
-            <h2 style={{ backgroundColor: 'Snow' }}>{kanjiflavor}</h2>
+            <h1 className="phoneflavor" style={{ color: 'indianred' }}>{name}</h1>
+            <h1 className="phoneflavor" style={{ color: 'blue' }}>{namae}</h1>
+            <h2 className="phoneflavor" style={{ backgroundColor: 'AliceBlue' }}>{engflavor}</h2>
+            <h2 className="phoneflavor" style={{ backgroundColor: 'Snow' }}>{kanjiflavor}</h2>
             <div className="row">
-                <div className="col-5 col-sm-2">
+                <div className="col-5 col-md-3 col-lg-2">
                     {<button type="button" className="btn btn-primary btn-lg" onClick={gotoPrevPokemon}>Previous</button>}
                 </div>
-                <div className="col-5 col-sm-2">
+                <div className="col-5 col-md-3 col-lg-2">
                     {<button type="button" className="btn btn-warning btn-lg" onClick={gotoNextPokemon} >Next</button>}
                 </div>
             </div>
