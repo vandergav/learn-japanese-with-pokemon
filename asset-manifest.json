@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/learn-japanese-with-pokemon/static/css/main.f678c7ee.chunk.css",
+    "main.css": "/learn-japanese-with-pokemon/static/css/main.c85c4620.chunk.css",
     "main.js": "/learn-japanese-with-pokemon/static/js/main.9ea04aea.chunk.js",
     "main.js.map": "/learn-japanese-with-pokemon/static/js/main.9ea04aea.chunk.js.map",
     "runtime-main.js": "/learn-japanese-with-pokemon/static/js/runtime-main.f522ed21.js",
@@ -9,17 +9,17 @@
     "static/js/2.6974497d.chunk.js": "/learn-japanese-with-pokemon/static/js/2.6974497d.chunk.js",
     "static/js/2.6974497d.chunk.js.map": "/learn-japanese-with-pokemon/static/js/2.6974497d.chunk.js.map",
     "index.html": "/learn-japanese-with-pokemon/index.html",
-    "precache-manifest.5813b5a56b5ee7b896808db11af1b186.js": "/learn-japanese-with-pokemon/precache-manifest.5813b5a56b5ee7b896808db11af1b186.js",
+    "precache-manifest.c31b8d3425e86bd7a8b6043aa23b752f.js": "/learn-japanese-with-pokemon/precache-manifest.c31b8d3425e86bd7a8b6043aa23b752f.js",
     "service-worker.js": "/learn-japanese-with-pokemon/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/learn-japanese-with-pokemon/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.f678c7ee.chunk.css.map": "/learn-japanese-with-pokemon/static/css/main.f678c7ee.chunk.css.map",
+    "static/css/main.c85c4620.chunk.css.map": "/learn-japanese-with-pokemon/static/css/main.c85c4620.chunk.css.map",
     "static/js/2.6974497d.chunk.js.LICENSE": "/learn-japanese-with-pokemon/static/js/2.6974497d.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.f522ed21.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.6974497d.chunk.js",
-    "static/css/main.f678c7ee.chunk.css",
+    "static/css/main.c85c4620.chunk.css",
     "static/js/main.9ea04aea.chunk.js"
   ]
 }
