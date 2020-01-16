@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/learn-japanese-with-pokemon/static/css/main.058b8407.chunk.css",
-    "main.js": "/learn-japanese-with-pokemon/static/js/main.9a76ad67.chunk.js",
-    "main.js.map": "/learn-japanese-with-pokemon/static/js/main.9a76ad67.chunk.js.map",
+    "main.css": "/learn-japanese-with-pokemon/static/css/main.1fce9253.chunk.css",
+    "main.js": "/learn-japanese-with-pokemon/static/js/main.f89fc885.chunk.js",
+    "main.js.map": "/learn-japanese-with-pokemon/static/js/main.f89fc885.chunk.js.map",
     "runtime-main.js": "/learn-japanese-with-pokemon/static/js/runtime-main.f522ed21.js",
     "runtime-main.js.map": "/learn-japanese-with-pokemon/static/js/runtime-main.f522ed21.js.map",
     "static/css/2.47e06e2e.chunk.css": "/learn-japanese-with-pokemon/static/css/2.47e06e2e.chunk.css",
     "static/js/2.a103a953.chunk.js": "/learn-japanese-with-pokemon/static/js/2.a103a953.chunk.js",
     "static/js/2.a103a953.chunk.js.map": "/learn-japanese-with-pokemon/static/js/2.a103a953.chunk.js.map",
     "index.html": "/learn-japanese-with-pokemon/index.html",
-    "precache-manifest.7a8bdf0bacf5bcecda62ac3fa50acba9.js": "/learn-japanese-with-pokemon/precache-manifest.7a8bdf0bacf5bcecda62ac3fa50acba9.js",
+    "precache-manifest.8940f272c867630fba90d88e09a086d9.js": "/learn-japanese-with-pokemon/precache-manifest.8940f272c867630fba90d88e09a086d9.js",
     "service-worker.js": "/learn-japanese-with-pokemon/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/learn-japanese-with-pokemon/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.058b8407.chunk.css.map": "/learn-japanese-with-pokemon/static/css/main.058b8407.chunk.css.map",
+    "static/css/main.1fce9253.chunk.css.map": "/learn-japanese-with-pokemon/static/css/main.1fce9253.chunk.css.map",
     "static/js/2.a103a953.chunk.js.LICENSE": "/learn-japanese-with-pokemon/static/js/2.a103a953.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.f522ed21.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.a103a953.chunk.js",
-    "static/css/main.058b8407.chunk.css",
-    "static/js/main.9a76ad67.chunk.js"
+    "static/css/main.1fce9253.chunk.css",
+    "static/js/main.f89fc885.chunk.js"
   ]
 }

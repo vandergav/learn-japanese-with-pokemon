@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/learn-japanese-with-pokemon/precache-manifest.7a8bdf0bacf5bcecda62ac3fa50acba9.js"
+  "/learn-japanese-with-pokemon/precache-manifest.8940f272c867630fba90d88e09a086d9.js"
 );
 
 self.addEventListener('message', (event) => {
