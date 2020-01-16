@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "505564b10f138cad9cf314832672e90c",
+    "revision": "0508e0682bb3b1d761758720e138cfb4",
     "url": "/learn-japanese-with-pokemon/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learn-japanese-with-pokemon/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "8cbed1fa6f16abcabb20",
+    "revision": "de6422bb351a35144d69",
     "url": "/learn-japanese-with-pokemon/static/css/main.058b8407.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learn-japanese-with-pokemon/static/js/2.a103a953.chunk.js.LICENSE"
   },
   {
-    "revision": "8cbed1fa6f16abcabb20",
-    "url": "/learn-japanese-with-pokemon/static/js/main.38b79a0f.chunk.js"
+    "revision": "de6422bb351a35144d69",
+    "url": "/learn-japanese-with-pokemon/static/js/main.9a76ad67.chunk.js"
   },
   {
     "revision": "7f1a63ef19e9ceafa488",
